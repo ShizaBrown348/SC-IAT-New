@@ -118,7 +118,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					singleAttTrials : 1, 
 					sharedAttTrials : , 
 					categoryTrials : 1
-				}*/
+				}
 			],
 			//All blocks show attribute1 on the left and attribute2 on the right. 
 			//blockOrder can be: 'startRight', 'startLeft', and 'random'
