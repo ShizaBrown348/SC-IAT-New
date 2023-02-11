@@ -12,7 +12,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 			canvas : {
 				maxWidth: 925,
 				proportions : 0.7,
-				background: '#615e45',
+				background: '#cf0a24',
 				borderWidth: 10,
 				canvasBackground: '#ffffff',
 				borderColor: 'lightblue'
@@ -91,33 +91,33 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					instHTML : '', 
 					block : 2, 
 					miniBlocks : 2, 
-					singleAttTrials : 10, 
-					sharedAttTrials : 7, 
-					categoryTrials : 7
+					singleAttTrials : 1, 
+					sharedAttTrials : 1, 
+					categoryTrials : 1
 				}, 
-			/*	{ 
+				{ 
 					instHTML : '', 
 					block : 3, 
 					miniBlocks : 2, 
-					singleAttTrials : 10, 
-					sharedAttTrials : 7, 
-					categoryTrials : 7
+					singleAttTrials : 1, 
+					sharedAttTrials : 1, 
+					categoryTrials : 1
 				}, 
 				{ 
 					instHTML : '', 
 					block : 4, 
 					miniBlocks : 2, 
-					singleAttTrials : 10, 
-					sharedAttTrials : 7, 
-					categoryTrials : 7
+					singleAttTrials : 1, 
+					sharedAttTrials : 1, 
+					categoryTrials : 1
 				}, 
 				{ 
 					instHTML : '', 
 					block : 5, 
 					miniBlocks : 2, 
-					singleAttTrials : 10, 
-					sharedAttTrials : 7, 
-					categoryTrials : 7
+					singleAttTrials : 1, 
+					sharedAttTrials : , 
+					categoryTrials : 1
 				}*/
 			],
 			//All blocks show attribute1 on the left and attribute2 on the right. 
