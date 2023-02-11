@@ -95,7 +95,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					sharedAttTrials : 7, 
 					categoryTrials : 7
 				}, 
-				{ 
+			/*	{ 
 					instHTML : '', 
 					block : 3, 
 					miniBlocks : 2, 
@@ -110,7 +110,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					singleAttTrials : 10, 
 					sharedAttTrials : 7, 
 					categoryTrials : 7
-				}/*, 
+				}, 
 				{ 
 					instHTML : '', 
 					block : 5, 
